@@ -1,1 +1,1 @@
-# This is the project README file, should be replaced
+Training a CNN from scratch for classifying CIFAR10 with accuracy above 0.89
